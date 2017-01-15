@@ -10,8 +10,7 @@ namespace PizzeriaWPF
     {
         public override bool PoprawnyCzas()
         {
-
-            return czasDostawy.AddHours(3) > DateTime.Now;
+            return (czasDostawy -  DateTime.Now).TotalHours > 3;
         }
     }
 }
