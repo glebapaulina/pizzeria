@@ -1,0 +1,14 @@
+c:\users\paulinka\documents\visual studio 2015\Projects\PizzeriaWPF\PizzeriaWPF\bin\Debug\PizzeriaWPF.exe.config
+C:\Users\Paulinka\documents\visual studio 2015\Projects\PizzeriaWPF\PizzeriaWPF\bin\Debug\PizzeriaWPF.exe
+C:\Users\Paulinka\documents\visual studio 2015\Projects\PizzeriaWPF\PizzeriaWPF\bin\Debug\PizzeriaWPF.pdb
+C:\Users\Paulinka\documents\visual studio 2015\Projects\PizzeriaWPF\PizzeriaWPF\obj\Debug\PizzeriaWPF.csprojResolveAssemblyReference.cache
+C:\Users\Paulinka\documents\visual studio 2015\Projects\PizzeriaWPF\PizzeriaWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Paulinka\documents\visual studio 2015\Projects\PizzeriaWPF\PizzeriaWPF\obj\Debug\App.g.cs
+C:\Users\Paulinka\documents\visual studio 2015\Projects\PizzeriaWPF\PizzeriaWPF\obj\Debug\PizzeriaWPF_MarkupCompile.cache
+C:\Users\Paulinka\documents\visual studio 2015\Projects\PizzeriaWPF\PizzeriaWPF\obj\Debug\PizzeriaWPF_MarkupCompile.lref
+C:\Users\Paulinka\documents\visual studio 2015\Projects\PizzeriaWPF\PizzeriaWPF\obj\Debug\MainWindow.baml
+C:\Users\Paulinka\documents\visual studio 2015\Projects\PizzeriaWPF\PizzeriaWPF\obj\Debug\PizzeriaWPF.g.resources
+C:\Users\Paulinka\documents\visual studio 2015\Projects\PizzeriaWPF\PizzeriaWPF\obj\Debug\PizzeriaWPF.Properties.Resources.resources
+C:\Users\Paulinka\documents\visual studio 2015\Projects\PizzeriaWPF\PizzeriaWPF\obj\Debug\PizzeriaWPF.csproj.GenerateResource.Cache
+C:\Users\Paulinka\documents\visual studio 2015\Projects\PizzeriaWPF\PizzeriaWPF\obj\Debug\PizzeriaWPF.exe
+C:\Users\Paulinka\documents\visual studio 2015\Projects\PizzeriaWPF\PizzeriaWPF\obj\Debug\PizzeriaWPF.pdb
